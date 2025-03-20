@@ -49,9 +49,9 @@ All Team : The entire team should hold a brainstorming session to determine the 
 Employee Turnover Rate- Departmental Turnover Impact -Work-Life Balance & Retention
  ### Salary & Promotions:
 Salary Equity Analysis - Managerial Influence on Promotion - Promotion & Career Growth Factors
-### Employee Satisfaction & Performance :
+### Employee Satisfaction & Performance:
 Performance Gap Analysis - Managerial Tenure & Satisfaction - Training Effectiveness
-### Dashboard & Decision-Making
+### Dashboard & Decision-Making:
 User Adoption Rate of HR Dashboard - Response Time for Insights -  Predictive Accuracy in Turnover Models
 ![KPI](https://github.com/user-attachments/assets/8dbc9a20-3bb4-4fff-b68f-46fa924ed690)
 ![KPI Details](https://github.com/user-attachments/assets/00f9df65-1f4c-44bb-8bf5-fd18ec2c7662)
