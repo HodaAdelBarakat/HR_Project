@@ -87,3 +87,5 @@ Relationship: Many-to-One (*:1). - Common Column: EducationLevelID.
 Description: Each employee can be associated with one educational level in the EducationalLevel table.
 ![Screenshot 2025-03-16 232213](https://github.com/user-attachments/assets/9fff8ea1-1cad-4ec8-87ea-242f8d586dcd)
 
+📊 To view the live HR Dashboard, visit:
+👉 [Click here](https://hodaadelbarakat.github.io/HR_Project/hr-dashboard/)
