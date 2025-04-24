@@ -1,5 +1,5 @@
 # HR Project
-![cover](https://github.com/user-attachments/assets/4acca880-2e50-4712-8905-cffae08a90fa)
+![1](https://github.com/user-attachments/assets/688542ad-53b6-496d-9438-92cd038ee162)
 ## Overview and Objectives
 ### Overview:
 This project aims to analyze HR data to gain insights into employee performance, satisfaction, and attrition rates. By leveraging SQL, Python, Tableau, and Excel, we will integrate various data sources to create a comprehensive HR analytics dashboard.
@@ -12,7 +12,7 @@ Investigate the relationship between work-life balance, travel frequency, and em
 Evaluate the effect of managerial tenure on employee satisfaction.
 Compare self-ratings and manager ratings to assess performance gaps.
 Analyze the impact of training opportunities on satisfaction and career growth.
-![overview](https://github.com/user-attachments/assets/bfd81de2-bc28-490c-9e75-87c185792b0d)
+![3](https://github.com/user-attachments/assets/3ea4d428-f0a3-488b-a3c3-b428bd1748e5)
 ## Scope:
  >Data extraction, cleaning, and transformation.
   >Turnover analysis and key influencing factors.
@@ -21,7 +21,7 @@ Analyze the impact of training opportunities on satisfaction and career growth.
  >Work-life balance and retention analysis.
  >Predictive modeling for attrition.
  >Dashboard creation using Tableau.
-![scpoe](https://github.com/user-attachments/assets/96a19f9d-58a5-4268-969f-fc629960ed0c)
+![4](https://github.com/user-attachments/assets/a2dc41c5-592c-4339-80ce-9ecfb19c09eb)
 ## Timeline and Milestones
 Week 1: Analysis & Forecasting Questions Phase 
   
@@ -30,9 +30,11 @@ Week 1: Analysis & Forecasting Questions Phase
   Week 4-5: Visualization Dashboard
   
   Week 6-7: Final Report & Presentation
-![timeline](https://github.com/user-attachments/assets/0e025b18-f545-41c8-8b61-7af6664be7e7)
+  ![5](https://github.com/user-attachments/assets/79f78eaf-fd96-41e0-bef7-8042408e1907)
+
 ### Gantt Chart 
-![time](https://github.com/user-attachments/assets/76da74ae-7bff-4664-9b14-816f3adcbccd)
+![Screenshot 2025-04-24 013854](https://github.com/user-attachments/assets/a660ea12-571b-46e1-bc51-0e254f915796)
+
 ## Task Assignment & Roles
 Philopateer Wael : Data cleaning and data analysis based on part of questions using SQL, python
  
@@ -43,7 +45,7 @@ Omar Ahmed  Abdalah : Design and create an interactive dashboard for data visual
 Huda Adel Hassan : Visualization plots answering forecasting questions ,Review all steps, assist all team members in all steps, and write the final report.
 
 All Team : The entire team should hold a brainstorming session to determine the questions for analysis, thoroughly review and understand all the steps, and prepare the presentation.
-![tassk assignment](https://github.com/user-attachments/assets/14e68d7e-7757-47be-b425-1eedd0e41989)
+![6](https://github.com/user-attachments/assets/b8099baf-e2b1-40e2-a845-6c11e6103263)
 ## Key Performance Indicators for HR Analytics
 ### Employee Turnover & Retention:
 Employee Turnover Rate- Departmental Turnover Impact -Work-Life Balance & Retention
@@ -53,8 +55,8 @@ Salary Equity Analysis - Managerial Influence on Promotion - Promotion & Career 
 Performance Gap Analysis - Managerial Tenure & Satisfaction - Training Effectiveness
 ### Dashboard & Decision-Making:
 User Adoption Rate of HR Dashboard - Response Time for Insights -  Predictive Accuracy in Turnover Models
-![KPI](https://github.com/user-attachments/assets/8dbc9a20-3bb4-4fff-b68f-46fa924ed690)
-![KPI Details](https://github.com/user-attachments/assets/00f9df65-1f4c-44bb-8bf5-fd18ec2c7662)
+![7](https://github.com/user-attachments/assets/86c7f7c7-39b2-4dff-a100-df852c0aef2a)
+![8](https://github.com/user-attachments/assets/33444884-8844-4016-8f85-4412b931763c)
 ## Stakeholder Analysis
 ### HR Department: 
 Need detailed analytics on employee retention, satisfaction, salary distribution, and promotions. - Use insights to improve HR policies, training programs, and employee engagement strategies.
@@ -64,7 +66,7 @@ Require high-level insights on employee turnover, performance trends, and strate
 Concerned with salary distribution, financial benefits, and workforce cost analysis. - se reports to optimize compensation strategies and control HR budgets.
 ### Department Managers (Heads of Different Departments)
 Require performance insights and employee satisfaction data within their teams. - Use HR analytics to identify retention risks and improve team productivity.
-![shark](https://github.com/user-attachments/assets/b1e4bf56-305a-46a2-b3ca-5135fa75b641)
+![9](https://github.com/user-attachments/assets/d2672a60-b4d1-4fde-9ffd-62f0790e6abe)
 ## Data Modeling
 ### Summary of Relationships:
 ### PerformanceRating → Employee:
@@ -83,4 +85,5 @@ Description: Each performance rating can be associated with one satisfaction lev
 Relationship: Many-to-One (*:1). - Common Column: EducationLevelID.
 
 Description: Each employee can be associated with one educational level in the EducationalLevel table.
-![Screenshot 2025-03-16 232213](https://github.com/user-attachments/assets/9de50a3d-8107-459b-a895-44b3ad760d79)
+![Screenshot 2025-03-16 232213](https://github.com/user-attachments/assets/9fff8ea1-1cad-4ec8-87ea-242f8d586dcd)
+
